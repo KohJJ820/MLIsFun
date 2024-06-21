@@ -78,7 +78,7 @@ The dataset used in this analysis is sourced from Kaggle:
 
 ### Discusssion
 - Discussing the reasons for differences in model performance and practical implications.
-- Discussing why the sigmoid function wasn't used
+- Discussing why the sigmoid function wasn't used to model the probability of satisfaction.
 
 ## Conclusion
 
