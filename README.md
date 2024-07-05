@@ -23,53 +23,45 @@ Machine Learning Assignment and Project
 ### Project
 |         Name         |      Contribution      |
 |----------------------|-------------------------|
-| Koh Jia Jie          | - Identify features and target  
-<br> - Performing PCA  
-                        <br> - Train test splitting  
-                        <br> - Train and evaluate Linear Regression |
-| Chay Wen Ning        | - Collect the datasets  
-                        <br> - Handle missing values and remove outliers  
-                        <br> - Clean the data by normalizing and standardizing  
-                        <br> - Make sure the dataset is ready for analysis and modeling |
-| Amira Raina          | - Train and evaluate Random Forest Regression  
-                        <br> - Train and evaluate Prophet Model  
-                        <br> - Further prediction  
-                        <br> - Conclusion |
-| Vikraman A/L Arumugam| - Visualize the data  
-                        <br> - Conduct correlation analysis between commodity prices and the exchange rate  
-                        <br> - Create additional features such as moving averages, percentages changes etc  
-                        <br> - Make sure the features are relevant |
-
+| Koh Jia Jie          | - Identify features and target  <br> - Performing PCA  <br> - Train test splitting  <br> - Train and evaluate Linear Regression |
+| Chay Wen Ning        | - Collect the datasets  <br> - Handle missing values and remove outliers  <br> - Clean the data by normalizing and standardizing  <br> - Make sure the dataset is ready for analysis and modeling |
+| Amira Raina          | - Train and evaluate Random Forest Regression  <br> - Train and evaluate Prophet Model  <br> - Further prediction  <br> - Conclusion |
+| Vikraman A/L Arumugam| - Visualize the data  <br> - Conduct correlation analysis between commodity prices and the exchange rate  <br> - Create additional features such as moving averages, percentages changes etc  <br> - Make sure the features are relevant |
 
 
 ## Folder Structure
-- **1_LabEnhancement_KMeans**               - 1_Kmeans.ipynb
-                                            - birds.jpg
-                                            - README.md
+- **1_LabEnhancement_KMeans**
+  - 1_Kmeans.ipynb
+  - birds.jpg
+  - README.md
 
-- **2_LabEnhancement_PCA**                  - 2_PCA.ipynb
-                                            - MalaysiaClimateData.csv
-                                            - README.md
+- **2_LabEnhancement_PCA**
+  - 2_PCA.ipynb
+  - MalaysiaClimateData.csv
+  - README.md
 
-- **3_LabEnhancement_LinearRegression**     - 3_LinearRegression.ipynb
-                                            - Ampang District.csv
-                                            - README.md
+- **3_LabEnhancement_LinearRegression**
+  - 3_LinearRegression.ipynb
+  - Ampang District.csv
+  - README.md
 
-- **4_LabEnhancement_LogisticRegression**   - 4_LogisticRegression.ipynb
-                                            - Airline_customer_satisfaction.csv
-                                            - README.md
+- **4_LabEnhancement_LogisticRegression**
+  - 4_LogisticRegression.ipynb
+  - Airline_customer_satisfaction.csv
+  - README.md
 
-- **5_Project**                             - datasets
-                                                - dataset (old).csv
-                                                - dataset.csv
-                                                - employment.csv
-                                                - exchangeRate.csv
-                                                - gdp.csv
-                                                - interest_rates_annual.csv
-                                                - monthlyRate.csv
-                                                - updated_dataset.csv
+- **5_Project**
+  - datasets
+    - dataset (old).csv
+    - dataset.csv
+    - employment.csv
+    - exchangeRate.csv
+    - gdp.csv
+    - interest_rates_annual.csv
+    - monthlyRate.csv
+    - updated_dataset.csv
 
-                                            - 5_Project.ipynb
-                                            - README.md
+  - 5_Project.ipynb
+  - README.md
 
 - **README.md**
