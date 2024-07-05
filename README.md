@@ -13,10 +13,12 @@ Machine Learning Assignment and Project
 
 ## Contributions
 ### Lab Enhancement
-- **Koh Jia Jie**           - PCA
-- **Chay Wen Ning**         - KMeans
-- **Amira Raina**           - LinearRegression
-- **Vikraman A/L Arumugam** - Logistic Regression
+|         Name          | Contribution |
+|-----------------------|--------------|
+| Koh Jia Jie           | PCA |
+| Chay Wen Ning         | KMeans |
+| Amira Raina           | Linear Regression |
+| Vikraman A/L Arumugam | Logistic Regression |
 
 ### Project
 - **Koh Jia Jie**           - identify features and target
