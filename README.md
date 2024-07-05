@@ -21,26 +21,13 @@ Machine Learning Assignment and Project
 | Vikraman A/L Arumugam | Logistic Regression |
 
 ### Project
-|         Name         |      Contribution    |
-|----------------------|----------------------|
-|Koh Jia Jie           |- identify features and target
-                        - Performing PCA
-                        - Train test splitting
-                        - Train and evaluate Linear Regression
-|Chay Wen Ning         |- Collect the datasets
-                        - Handle missing values and remove outliers
-                        - Clean the data by normalizing and standardizing
-                        - Make sure the dataset is ready for analysis and modeling
+|         Name         |      Contribution      |
+|----------------------|-------------------------|
+| Koh Jia Jie          | - Identify features and target  <br> - Performing PCA  <br> - Train test splitting  <br> - Train and evaluate Linear Regression |
+| Chay Wen Ning        | - Collect the datasets  <br> - Handle missing values and remove outliers  <br> - Clean the data by normalizing and standardizing  <br> - Make sure the dataset is ready for analysis and modeling |
+| Amira Raina          | - Train and evaluate Random Forest Regression  <br> - Train and evaluate Prophet Model  <br> - Further prediction  <br> - Conclusion |
+| Vikraman A/L Arumugam| - Visualize the data  <br> - Conduct correlation analysis between commodity prices and the exchange rate  <br> - Create additional features such as moving averages, percentages changes etc  <br> - Make sure the features are relevant |
 
-|Amira Raina           - Train and evaluate Random Forest Regression
-|                      - Train and evaluate Prohpet Model
-|                      - Further prediction
-|                      - Conclusion
-|
-|Vikraman A/L Arumugam - Visualize the data
-|                      - Conduct correlation analysis between commodity prices and the exchange rate
-|                      - Create additional features such as moving averages, percentages changes etc
-|                      - Make sure the features are relevant
 
 
 ## Folder Structure
