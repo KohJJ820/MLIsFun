@@ -24,7 +24,7 @@ Machine Learning Assignment and Project
 |         Name         |      Contribution      |
 |----------------------|-------------------------|
 | Koh Jia Jie          | - Identify features and target  
-                        <br> - Performing PCA  
+<br> - Performing PCA  
                         <br> - Train test splitting  
                         <br> - Train and evaluate Linear Regression |
 | Chay Wen Ning        | - Collect the datasets  
