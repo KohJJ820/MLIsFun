@@ -4,7 +4,7 @@ This lab enhancement explored the application of PCA on the real world dataset. 
 
 ### 1. Real World Dataset
 
-The dataset used in this lab enhancement is the dataset of Weather Climax of Kuala Lumpur, Malaysia in 2023. PCA is applied to the dataset to reduce the dimensionality and allow the data to be visualized in a 2D graph, and hence making it easier to idetify the relationships among the variables.
+The dataset used in this lab enhancement is the dataset of Weather Climate of Kuala Lumpur, Malaysia in 2023. PCA is applied to the dataset to reduce the dimensionality and allow the data to be visualized in a 2D graph, and hence making it easier to idetify the relationships among the variables.
 
 ### 2. Demonstrations of Advantages and Disadvantages
 
