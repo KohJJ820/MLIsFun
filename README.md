@@ -13,33 +13,34 @@ Machine Learning Assignment and Project
 
 ## Contributions
 ### Lab Enhancement
-|         Name          | Contribution |
-|-----------------------|--------------|
-| Koh Jia Jie           | PCA |
-| Chay Wen Ning         | KMeans |
-| Amira Raina           | Linear Regression |
+|         Name          |     Contribution    |
+|-----------------------|---------------------|
+| Koh Jia Jie           |         PCA         |
+| Chay Wen Ning         |        KMeans       |
+| Amira Raina           |  Linear Regression  |
 | Vikraman A/L Arumugam | Logistic Regression |
 
 ### Project
-- **Koh Jia Jie**           - identify features and target
-                            - Performing PCA
-                            - Train test splitting
-                            - Train and evaluate Linear Regression
+|         Name         |      Contribution    |
+|----------------------|----------------------|
+|Koh Jia Jie           |- identify features and target
+                        - Performing PCA
+                        - Train test splitting
+                        - Train and evaluate Linear Regression
+|Chay Wen Ning         |- Collect the datasets
+                        - Handle missing values and remove outliers
+                        - Clean the data by normalizing and standardizing
+                        - Make sure the dataset is ready for analysis and modeling
 
-- **Chay Wen Ning**         - Collect the datasets
-                            - Handle missing values and remove outliers
-                            - Clean the data by normalizing and standardizing
-                            - Make sure the dataset is ready for analysis and modeling
-
-- **Amira Raina**           - Train and evaluate Random Forest Regression
-                            - Train and evaluate Prohpet Model
-                            - Further prediction
-                            - Conclusion
-
-- **Vikraman A/L Arumugam** - Visualize the data
-                            - Conduct correlation analysis between commodity prices and the exchange rate
-                            - Create additional features such as moving averages, percentages changes etc
-                            - Make sure the features are relevant
+|Amira Raina           - Train and evaluate Random Forest Regression
+|                      - Train and evaluate Prohpet Model
+|                      - Further prediction
+|                      - Conclusion
+|
+|Vikraman A/L Arumugam - Visualize the data
+|                      - Conduct correlation analysis between commodity prices and the exchange rate
+|                      - Create additional features such as moving averages, percentages changes etc
+|                      - Make sure the features are relevant
 
 
 ## Folder Structure
