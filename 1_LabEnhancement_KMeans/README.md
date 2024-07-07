@@ -1,3 +1,8 @@
+## Contributor
+|         Name          | Student ID |
+|-----------------------|------------|
+| Chay Wen Ning         | 1201103431 |
+
 # K-Means Clustering Lab Enhancement
 
 This lab enhancement provides a comprehensive exploration of K-Means clustering and its variants. The enhancements include a clarification on the importance of feature scaling, a comparison between different K-Means variants, and a real-world application of K-Means in image compression.

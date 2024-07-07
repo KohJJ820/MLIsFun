@@ -1,3 +1,8 @@
+## Contributor
+|         Name          | Student ID |
+|-----------------------|------------|
+| Vikraman A/L Arumugam | 1221303198 |
+
 # MLIsFun
 Machine Learning Assignment and Project
 

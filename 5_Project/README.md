@@ -1,3 +1,12 @@
+## Contributors
+|         Name          | Student ID |      Contributions      |
+|-----------------------|------------|-------------------------|
+| Koh Jia Jie           | 1211102879 | - Identify features and target  <br> - Performing PCA  <br> - Train test splitting  <br> - Train and evaluate Linear Regression |
+| Chay Wen Ning         | 1201103431 | - Collect the datasets  <br> - Handle missing values and remove outliers  <br> - Clean the data by normalizing and standardizing  <br> - Make sure the dataset is ready for analysis and modeling |
+| Amira Raina           | 1211307539 | - Train and evaluate Random Forest Regression  <br> - Train and evaluate Prophet Model  <br> - Further prediction  <br> - Conclusion |
+| Vikraman A/L Arumugam | 1221303198 | - Visualize the data  <br> - Conduct correlation analysis between commodity prices and the exchange rate  <br> - Create additional features such as moving averages, percentages changes etc  <br> - Make sure the features are relevant |
+
+
 # Project: Malaysian Ringgit (RM) Exchange Rate Forecasting
 
 This project analyzes fluctuations in the Malaysian exchange rate to forecast the value of the Malaysian Ringgit (RM) over the next five years. The analysis is based on various Malaysian economic indicators.

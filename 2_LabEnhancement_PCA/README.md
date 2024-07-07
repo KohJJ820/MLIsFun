@@ -1,3 +1,8 @@
+## Contributor
+|         Name          | Student ID |
+|-----------------------|------------|
+| Koh Jia Jie           | 1211102879 |
+
 # Lab Enhancement - Principal Components Analysis (PCA)
 
 This lab enhancement explored the application of PCA on the real world dataset. Besides, this lab enhancement also demonstrate the advantages and disadvantages of PCA by implementing the dataset with and without PCA to the model and compare the results.

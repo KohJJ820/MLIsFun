@@ -13,7 +13,7 @@ Machine Learning Assignment and Project
 
 ## Contributions
 ### Lab Enhancement
-|         Name          |     Contribution    |
+|         Name          |    Contributions    |
 |-----------------------|---------------------|
 | Koh Jia Jie           |         PCA         |
 | Chay Wen Ning         |        KMeans       |
@@ -21,7 +21,7 @@ Machine Learning Assignment and Project
 | Vikraman A/L Arumugam | Logistic Regression |
 
 ### Project
-|         Name         |      Contribution      |
+|         Name         |      Contributions      |
 |----------------------|-------------------------|
 | Koh Jia Jie          | - Identify features and target  <br> - Performing PCA  <br> - Train test splitting  <br> - Train and evaluate Linear Regression |
 | Chay Wen Ning        | - Collect the datasets  <br> - Handle missing values and remove outliers  <br> - Clean the data by normalizing and standardizing  <br> - Make sure the dataset is ready for analysis and modeling |

@@ -1,3 +1,8 @@
+## Contributor
+|         Name          | Student ID |
+|-----------------------|------------|
+| Amira Raina           | 1211307539 |
+
 # About the Lab Enhancement
 This lab enhancement is build on Lab07_LinearRegression. It takes the formula used in the original lab onto a real-world application. 
 Predicting the house prices in Ampang, Malaysia by using linear regression.
