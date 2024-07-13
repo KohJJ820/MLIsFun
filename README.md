@@ -16,20 +16,20 @@ https://youtu.be/wpVHlt9NN5Q
 
 ## Contributions
 ### Lab Enhancement
-|         Name          |    Contributions    |
-|-----------------------|---------------------|
-| Koh Jia Jie           |         PCA         |
-| Chay Wen Ning         |        KMeans       |
-| Amira Raina           |  Linear Regression  |
-| Vikraman A/L Arumugam | Logistic Regression |
+|         Name          |    Contributions    | Percentage |
+|-----------------------|---------------------|------------|
+| Koh Jia Jie           |         PCA         |     25     |
+| Chay Wen Ning         |        KMeans       |     25     |
+| Amira Raina           |  Linear Regression  |     25     |
+| Vikraman A/L Arumugam | Logistic Regression |     25     |
 
 ### Project
-|         Name         |      Contributions      |
-|----------------------|-------------------------|
-| Koh Jia Jie          | - Identify features and target  <br> - Performing PCA  <br> - Train test splitting  <br> - Train and evaluate Linear Regression |
-| Chay Wen Ning        | - Collect the datasets  <br> - Handle missing values and remove outliers  <br> - Clean the data by normalizing and standardizing  <br> - Make sure the dataset is ready for analysis and modeling |
-| Amira Raina          | - Train and evaluate Random Forest Regression  <br> - Train and evaluate Prophet Model  <br> - Further prediction  <br> - Conclusion |
-| Vikraman A/L Arumugam| - Visualize the data  <br> - Conduct correlation analysis between commodity prices and the exchange rate  <br> - Create additional features such as moving averages, percentages changes etc  <br> - Make sure the features are relevant |
+|         Name         |      Contributions      | Percentage |
+|----------------------|-------------------------|------------|
+| Koh Jia Jie          | - Identify features and target  <br> - Performing PCA  <br> - Train test splitting  <br> - Train and evaluate Linear Regression |     25     |
+| Chay Wen Ning        | - Collect the datasets  <br> - Handle missing values and remove outliers  <br> - Clean the data by normalizing and standardizing  <br> - Make sure the dataset is ready for analysis and modeling |     25     |
+| Amira Raina          | - Train and evaluate Random Forest Regression  <br> - Train and evaluate Prophet Model  <br> - Further prediction  <br> - Conclusion |     25     |
+| Vikraman A/L Arumugam| - Visualize the data  <br> - Conduct correlation analysis between commodity prices and the exchange rate  <br> - Create additional features such as moving averages, percentages changes etc  <br> - Make sure the features are relevant |     25     |
 
 
 ## Folder Structure
